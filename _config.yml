@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: michaelsteven
 description: Launch page, links, thoughts and idiosyncracies
+customjs:
+ - https://oap.accuweather.com/launch.js
